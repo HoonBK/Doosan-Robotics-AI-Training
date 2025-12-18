@@ -17,6 +17,8 @@ https://colab.research.google.com/drive/1reRK8p2X60BFLUHiR0Gk0ERyyI0MVvBh?usp=sh
 
 ## 실행방법
 
+**구글 드라이브 접속 불가시 위의 링크를 통해 실습자료 확인이 가능합니다.** 
+
 ### 1. 파일 다운로드
 <img width="1039" height="463" alt="image" src="https://github.com/user-attachments/assets/b15f5b73-f7f5-4d0e-af1e-49b7385071a9" />
 초록 코드 -> Download Zip파일로 다운로드
